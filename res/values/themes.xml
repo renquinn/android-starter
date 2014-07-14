@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomActionBarTheme"
+           parent="@android:style/Theme.Holo.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/LightPurpleActionBar</item>
+    </style>
+
+    <style name="LightBlueActionBar"
+           parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">#33B5E5</item>
+    </style>
+
+    <style name="LightPurpleActionBar"
+           parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">#AA66CC</item>
+    </style>
+
+    <style name="LightGreenActionBar"
+           parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">#99CC00</item>
+    </style>
+
+    <style name="LightOrangeActionBar"
+           parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">#FFBB33</item>
+    </style>
+
+    <style name="LightRedActionBar"
+           parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">#FF4444</item>
+    </style>
+
+    <style name="BlueActionBar"
+           parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">#0099CC</item>
+    </style>
+
+    <style name="PurpleActionBar"
+           parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">#9933CC</item>
+    </style>
+
+    <style name="GreenActionBar"
+           parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">#669900</item>
+    </style>
+
+    <style name="OrangeActionBar"
+           parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">#FF8800</item>
+    </style>
+
+    <style name="RedActionBar"
+           parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">#CC0000</item>
+    </style>
+
+</resources>
+
